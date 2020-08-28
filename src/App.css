@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.form {
+  display: inline-block;
+  margin: 3em;
+  background-color: goldenrod;
+  padding: 3em;
+  border-radius: 15px;
+}
+
+.hobies1 {
+
+margin: 2em;
+ 
+}
+
+.hobies2 {
+
+  margin: 2em;
+ 
+}
+.input {
+  margin-bottom: 1em;
+}
